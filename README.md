@@ -1,1 +1,1 @@
-# CSCI19_blog
+# Juan's CSCI19 Blog
