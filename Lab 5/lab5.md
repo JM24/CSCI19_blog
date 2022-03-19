@@ -51,27 +51,28 @@ I read about how keys can be established using asymmetric cryptogtaphy.
 
 <img src="lab5_5.8.jpeg" width="800">
 
-I learned about digital signatures and certificates and why there are useful.
+I learned about digital signatures and certificates and why they are useful.
 
 ##### Task 9:
 
 <img src="lab5_5.9.jpeg" width="800">
 
-
+I learned about SSH authentication and using private keys.
 
 ##### Task 10:
 
 <img src="lab5_5.10.jpeg" width="800">
 
-
+I learned about how the Diffie Hellman Key Exchange works.
 
 ##### Task 11:
 
 <img src="lab5_5.11.jpeg" width="800">
 
-
+I read about different encryptions such as: PGP, GPG, and AES.
 
 ##### Task 12:
 
 <img src="lab5_5.12.jpeg" width="800">
 
+The conclusion explained what the future could look like with quantum computers posing a problem for many different types of encryption.
