@@ -7,4 +7,5 @@
 ### [Lab 3](Lab 3/lab3.md)
 ### [Lab 4](Lab 4/lab4.md)
 ### [Lab 5](Lab 5/lab5.md)
+### [Lab 6](Lab 6/lab6.md)
 ### [NCL Gym](NCLGym/gym.md)
