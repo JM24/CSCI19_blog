@@ -9,8 +9,8 @@ Whenever I was using my phone or my computer I would check and see what WiFi AP'
 
 #### 25 SSIDs
 
-1.     Amped_RTA1750_2.4
-2.     DoubleFirewalls
+1. Amped_RTA1750_2.4
+2. DoubleFirewalls
 3.     DoubleFirewalls_5g
 4.     Home-3E52
 5.     NETGEAR72NTGR_VMB_1462060944
