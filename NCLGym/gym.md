@@ -8,6 +8,7 @@
 ##### Open Source Intelligence
 
 Meta
+
 <img src="challenge1.PNG" width="800">
 
 I used the Jeffrey's Image Metadata Viewer to examine the image of the lamb to extract the metadata.
