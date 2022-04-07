@@ -8,6 +8,7 @@
 Whenever I was using my phone or my computer I would check and see what WiFi AP's I could find and write them down until I got 25.
 
 #### 25 SSIDs
+
 1. Amped_RTA1750_2.4
 2. DoubleFirewalls
 3. DoubleFirewalls_5g
