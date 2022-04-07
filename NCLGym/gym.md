@@ -19,7 +19,7 @@ Crypto 2
 
 <img src="challenge2.PNG" width="800">
 
-I was able to determine that the ecryption was made using a Ceasar Cipher and decoded it using online tools.
+I was able to determine that the encryption was made using a Ceasar Cipher and decoded it using online tools.
 
 ##### Password Cracking
 
@@ -35,7 +35,7 @@ SSH
 
 <img src="challenge4.PNG" width="800">
 
-I analyzed the log file and was able to detmine the answers to all the questions to the questions by skimming the log file for the information.
+I analyzed the log file and was able to determine the answers to all the questions to the questions by skimming the log file for the information.
 
 ##### Network Traffic Analysis
 
