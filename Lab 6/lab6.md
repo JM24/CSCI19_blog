@@ -3,9 +3,9 @@
 ### Juan Mercado
 ### March 18th, 2022
 
-##### Overview
+#### Overview
 
-Whenever I could wether I was using my phone or my computer I would check and see what WiFi AP's I could find and write them down until I got 25.
+Whenever I was using my phone or my computer I would check and see what WiFi AP's I could find and write them down until I got 25.
 
 #### 25 SSIDs
 
